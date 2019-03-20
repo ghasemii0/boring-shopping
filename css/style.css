@@ -1,9 +1,12 @@
-p.intro{
-  color: blue;
+.important {
+  color: green;
+  font-weight: bold;
 }
-h2.intro{
-  color: red;
+.subhead {
+  font-family: sans-serif;
+  font-weight: lighter;
 }
-img.intro{
-  height: 120px;
+.unimportant {
+  font-style: italic;
+  color: purple;
 }
